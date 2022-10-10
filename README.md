@@ -1,2 +1,3 @@
-# mpu6050
-MPU6050 IMU library for stm32
+# IMU mpu6050 
+ver 1.0 
+-- Basic reading from the sensor
